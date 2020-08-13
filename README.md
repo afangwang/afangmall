@@ -1,4 +1,4 @@
-# 21-mall
+# afangmall
 
 ## Project setup
 ```
